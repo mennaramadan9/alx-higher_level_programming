@@ -7,17 +7,6 @@ Defines a class Rectangle
 class Rectangle:
     """
     The Rectangle class represents a rectangle with width and height attributes.
-
-    Attributes:
-        __width (int): The width of the rectangle.
-        __height (int): The height of the rectangle.
-
-    Methods:
-        __init__(self, width=0, height=0): Initializes a new instance of the Rectangle class.
-        width (property): Gets the width of the rectangle.
-        width (setter): Sets the width of the rectangle with input validation.
-        height (property): Gets the height of the rectangle.
-        height (setter): Sets the height of the rectangle with input validation.
     """
 
 
